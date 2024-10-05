@@ -22,8 +22,6 @@ public class SauceDemoUITest {
 
     @BeforeMethod
     public void setUp() {
-        // Set up the ChromeDriver path
-        System.setProperty("webdriver.chrome.driver", "C:\\SeleniumWebDriverJAVA\\ChromeDriver\\chromedriver-win64\\chromedriver.exe");
         
         // Initialize WebDriver
         driver = new ChromeDriver();
