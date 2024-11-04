@@ -29,13 +29,15 @@ Go to the project directory
   cd Automated-UI-Test-for-Saucedemo-Site
 ```
 
-Install Dependencies
+Run these commands in the project's directory:
+
+*Install Dependencies
 
 ```bash
   mvn clean install
 ```
 
-Run the Tests
+*Run the Tests
 
 ```bash
   mvn test
