@@ -30,7 +30,7 @@ Go to the project directory
 ```
 
 Run these commands in the project's directory:
-
+***
 *Install Dependencies
 
 ```bash
