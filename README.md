@@ -30,14 +30,13 @@ Go to the project directory
 ```
 
 Run these commands in the project's directory:
-***
-*Install Dependencies
+  * Install Dependencies
 
 ```bash
   mvn clean install
 ```
 
-*Run the Tests
+  * Run the Tests
 
 ```bash
   mvn test
